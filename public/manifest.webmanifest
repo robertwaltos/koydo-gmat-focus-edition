@@ -1,0 +1,16 @@
+{
+  "name": "Koydo GMAT",
+  "short_name": "GMAT Prep",
+  "description": "GMAT Focus Edition preparation — free practice questions, study guides, and AI-powered analytics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
