@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","459","static/chunks/app/learn/page-9866da3d2b2e4b13.js"],""]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen px-4 py-12","children":["$","div",null,{"className":"mx-auto max-w-4xl","children":[["$","$L2",null,{"href":"/","className":"mb-6 inline-flex items-center gap-1 text-sm text-zinc-500 hover:text-zinc-700 dark:text-zinc-400","children":"← Back to Home"}],["$","h1",null,{"className":"mb-2 text-3xl font-bold text-zinc-900 dark:text-zinc-100","children":"GMAT Focus Edition Study Hub"}],["$","p",null,{"className":"mb-8 text-zinc-600 dark:text-zinc-400","children":"Select a subject or start a full practice test."}],["$","div",null,{"className":"rounded-xl border border-zinc-200 bg-zinc-50 p-8 text-center dark:border-zinc-800 dark:bg-zinc-900","children":["$","p",null,{"className":"text-zinc-500 dark:text-zinc-400","children":"Study modules coming soon. Content agents will populate this area with subject-specific practice."}]}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9KgkaaoWTIwcBSrLCfzMy"}
+5:null

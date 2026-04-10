@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /account/
+
+Host: https://gmat-focus-edition.koydo.app
+Sitemap: https://gmat-focus-edition.koydo.app/sitemap.xml

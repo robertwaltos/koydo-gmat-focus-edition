@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/api/gmat-focus-edition/dashboard/route": "/api/gmat-focus-edition/dashboard",
+  "/api/gmat-focus-edition/questions/route": "/api/gmat-focus-edition/questions",
+  "/api/gmat-focus-edition/subscription-status/route": "/api/gmat-focus-edition/subscription-status",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/learn/page": "/learn",
+  "/pricing/page": "/pricing",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/terms/page": "/terms",
+  "/opengraph-image/route": "/opengraph-image"
+}
