@@ -20,6 +20,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Auth gate check
+        run: |
+          if ! grep -q "isPublicRoute" src/middleware.ts; then
+            echo "::error::src/middleware.ts is missing auth gate (isPublicRoute check)."
+            echo "See docs/ENGINEERING_BLUEPRINT.md for the required pattern."
+            exit 1
+          fi
+
       - name: TypeScript check
         run: npx tsc --noEmit
 
