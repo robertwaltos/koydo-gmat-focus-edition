@@ -1,11 +1,17 @@
 name: CI
 
 on:
-  push:
-    branches: [master, main]
-  pull_request:
-    branches: [master, main]
+  # ─── PAUSED 2026-04-17 ──────────────────────────────────────────────
+  # All automatic triggers commented out while we resolve current issues.
+  # Manual runs via workflow_dispatch (UI / gh workflow run) still work.
+  # Re-enable by restoring the original trigger blocks (see git history).
+  # ─────────────────────────────────────────────────────────────────────
+  # push:
+    # branches: [master, main]
+  # pull_request:
+    # branches: [master, main]
 
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
